@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,700;1,14..32,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,500;1,14..32,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz@0,14..32;1,14..32&display=swap');
+
 :root{
   /* Grayscale */
   --dark-gray: #1F1F1F;
@@ -7,7 +11,7 @@
   --light-gray-2:#CCCCCC;
   --light-gray-3:#F5F5F5;
   --white:#FFFFFF;
-  --azul-claro:#F9F8FE;
+  --ghost-white:#F9F8FE;
 
   /* Colors */
   --primary:#C92071;
@@ -31,6 +35,6 @@
 }
 
 body{
-  background-color: var(--azul-claro);
+  background-color: var(--ghost-white);
   font-family:var(--fonte);
 }
