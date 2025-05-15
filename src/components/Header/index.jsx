@@ -1,4 +1,4 @@
-import DigitalStore from "../Header/assets/DigitalStore.svg"
+import logo from "../Header/assets/logo.svg"
 import FlatIcon from "../Header/assets/FlatIcon.svg"
 import Search from '../Header/assets/Search.svg'
 
@@ -11,7 +11,7 @@ function Header() {
             <header className="header">
                 <section className="header__searchMenu">
                     <div>
-                        <img src={DigitalStore} alt="Logo da digital college" />
+                        <img src={logo} alt="Logo da digital college" />
                         <input type="search" placeholder="Pesquisar produto..." />
                         <img id="lupa" src={Search} alt="Ícone de lupa" />
                         <a href="#">Cadastre-se</a>
