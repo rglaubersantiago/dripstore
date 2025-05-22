@@ -4,7 +4,7 @@
     background-color: var(--white)
 }
 
-#section{
+#section {
     display: flex;
     justify-content: space-around;
 }
@@ -18,6 +18,8 @@
     flex-wrap: wrap;
 }
 
+
+
 #search-menu-container input {
     width: 32em;
     height: 3em;
@@ -28,6 +30,8 @@
     background-color: #f8f8f8;
     opacity: 60%;
 }
+
+
 
 #logo {
     width: 14em;

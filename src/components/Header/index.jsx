@@ -12,7 +12,7 @@ function Header() {
                 <section id="section">
                     <div id="search-menu-container">
                         <img id="logo" src={logo} alt="Logo da digital college" />
-                        <input type="search" placeholder="Pesquisar produto..." />
+                        <input id="search" type="search" placeholder="Pesquisar produto..." />
                         <img id="lupa" src={Search} alt="Ícone de lupa" />
                         <a href="#">Cadastre-se</a>
                         <nav>

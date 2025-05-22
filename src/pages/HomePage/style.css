@@ -1,0 +1,71 @@
+.carousel {
+    height: 34rem;
+    background-color: var(--light-gray-3);
+}
+
+.carousel-inner {
+    padding: 4em 2em 8em 3em;
+}
+
+#texto-ofertas {
+    width: 31em;
+    height: 22em;
+    margin-top: 2em;
+}
+
+#texto-ofertas h3 {
+    font-size: small;
+    font-weight: bold;
+    color: var(--warning);
+    line-height: 24px;
+    letter-spacing: 0.75px;
+}
+
+#texto-ofertas h1 {
+    font-size: 3.2em;
+    font-weight: bold;
+    line-height: 66px;
+    letter-spacing: 1px;
+    color: var(--dark-gray);
+}
+
+#texto-ofertas p {
+    line-height: 34px;
+    letter-spacing: 0.75px;
+    font-size: 0.8380em;
+}
+
+#texto-ofertas a {
+    background-color: var(--primary);
+    padding: 0.9em 4em;
+    border-radius: 8px;
+    color: var(--light-gray-3);
+    font-weight: 700;
+    font-size: small;
+    letter-spacing: 0.75px;
+}
+
+#texto-ofertas a:hover {
+    cursor: pointer;
+}
+
+#whiteSneakers {
+    width: 45em;
+    height: 35em;
+    position: relative;
+    bottom: 4.5em;
+}
+
+#ornament {
+    width: 8em;
+    margin-bottom: 28em;
+    margin-right: 2em;
+}
+
+.carousel-indicators [data-bs-target]
+{
+    background-color: #C92071;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}

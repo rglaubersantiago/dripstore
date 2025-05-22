@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,800;1,14..32,800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,700;1,14..32,700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,500;1,14..32,500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz@0,14..32;1,14..32&display=swap');
@@ -25,7 +26,7 @@
   --start-secundary-gradient:#B5B6F2;
   --end-secundary-gradient:#EFEFFF;
 
-  --fonte: 'Inter', sans-serif;
+  --fonte: "Inter", sans-serif;
 }
 
 *{
